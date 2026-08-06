@@ -1,0 +1,65 @@
+<div class="instructors clearfix">
+  {% for instructor in site.data.staff.Instructors %}
+  <div class="instructor-profile">
+    <a href="{{ instructor.url }}" target="_blank">
+      <img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" alt="Instructor image" />
+    </a>
+    <ul class="instructor-info">
+      <li><a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+      <li>{{ instructor.role }}</li>
+      <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
+      <li><span>Office hours:</span> {{ instructor.office-hours }}</li>
+    </ul>
+  </div>
+  {% endfor %}
+</div>
+
+<style>
+  /* Parent container for instructors */
+  .instructors {
+    display: flex; /* Flexbox layout */
+    flex-wrap: wrap; /* Allow wrapping to the next row */
+    gap: 20px; /* Space between items */
+    padding: 0 1%;
+  }
+
+  /* Individual instructor profiles */
+  .instructor-profile {
+    display: flex;
+    flex-direction: row; /* Arrange image and info side by side */
+    align-items: flex-start; /* Align items at the top */
+    width: calc(50% - 20px); /* Two items per row */
+    margin-bottom: 20px;
+  }
+
+  .instructor-profile img {
+    border-radius: 50%;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+  }
+
+  .instructor-info {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .instructor-info li {
+    margin-bottom: 5px;
+  }
+
+  .instructor-info a {
+    color: var(--global-theme-color);
+    text-decoration: none;
+  }
+
+  .instructor-info a:hover {
+    text-decoration: underline;
+  }
+
+  .instructor-info span {
+    font-weight: bold;
+  }
+</style>
