@@ -25,7 +25,7 @@ No prerequisites are required for this course; however, the following could be h
 ***
 
 - **Time:** Tuesday & Thursday 2:00 - 3:15 PM
-- **Location:** [Fralin Hall 102](https://maps.app.goo.gl/FfkHZ4NVSJywgJ2N7) / [Zoom](https://virginiatech.zoom.us/j/5581734484)
+- **Location:** [Fralin Hall 102](https://maps.app.goo.gl/FfkHZ4NVSJywgJ2N7) (in person) / [Zoom](https://virginiatech.zoom.us/j/5581734484) (online)
 - **Contact:** Students should ask all course-related questions on Piazza or Discord. For personal matters or emergencies, please email the instructor at <a href="mailto:cs5624instructors@gmail.com" target="_blank">cs5624instructors@gmail.com</a>. For anonymous questions or comments, please use this [form](https://forms.gle/NwFoZ5TM9Exs6WZq5).
 
 ***
