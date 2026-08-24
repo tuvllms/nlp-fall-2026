@@ -1,10 +1,10 @@
 ---
 layout: about
 title: home
-course_code: CS 6804
-course_name: <b>Frontier AI Systems</b>
+course_code: CS 5624
+course_name: <b>Natural Language Processing</b>
 permalink: /
-term: Spring 2026
+term: Fall 2026
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
