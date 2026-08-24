@@ -13,7 +13,7 @@ social: true # includes social icons at the bottom of the page
 
 <b>Course description</b>
 
-The primary goal of this course is to examine recent developments in large language models (LLMs) and generative AI. We will study advances in LLM training, alignment, and evaluation, covering topics such as Transformers and novel architectures, LLM pretraining and post-training, efficient training and inference, large reasoning models and test-time scaling, multimodal models, diffusion models, agentic AI, self-evolving agents with reasoning memory, etc. Students will also learn how to read and evaluate research papers, formulate research problems, and develop potential solutions. The course is intended for graduate students who want to apply recent advances in LLMs and GenAI to their own research.
+This course provides an in-depth exploration of Natural Language Processing (NLP) with a focus on the principles and techniques behind the development of large language models (LLMs) and LLM agents. Topics include foundational NLP concepts, neural language models, Transformers architectures, LLM pretraining and post-training, efficient training and inference, LLM reasoning and test-time scaling, interpretability and evaluation, multimodal and diffusion LLMs, AI agents, recursive self-improvement, harness evolution and continual learning, automated scientific discovery, and AI security and privacy, etc. Students will gain practical experience through coding assignments and a final project, which prepare them to apply state-of-the-art models and techniques to real-world applications.
 
 <b>Prerequisites</b>
 
