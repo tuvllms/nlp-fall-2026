@@ -66,15 +66,9 @@ I value creating a classroom environment where all students can fully participat
 
 ***
 
-### Academic integrity statement
+### Graduate Academic Integrity Statement
 
-The Undergraduate Honor Code pledge that each member of the university community agrees to abide by states:
-
-"As a Hokie, I will conduct myself with honor and integrity at all times.  I will not lie, cheat, or steal, nor will I accept the actions of those who do."
-
-Students enrolled in this course are responsible for abiding by the Honor Code. A student who has doubts about how the Honor Code applies to any assignment is responsible for obtaining specific guidance from the course instructor before submitting the assignment for evaluation. Ignorance of the rules does not exclude any member of the University community from the requirements and expectations of the Honor Code.
-
-See  <a href="https://honorsystem.vt.edu/">additional information about the Honor Code</a>.
+The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in this course, and all assignments shall be subject to the stipulations of the Graduate Honor Code. For more information on the Graduate Honor Code, please refer to the <a href="https://graduateschool.vt.edu/academics/expectations/graduate-honor-system.html">GHS Constitution</a>.
 
 ***
 
@@ -92,7 +86,7 @@ By the end of this course, students will be able to:
 
 ### Absence policy
 
-Although attendance is not graded, students are strongly encouraged to attend all scheduled classes, quizzes, project presentations, and exams (if any) to fully engage with the course material and succeed.
+Although attendance is not graded, students are strongly encouraged to attend all scheduled classes and project presentations to fully engage with the course material and succeed.
 
 ***
 
@@ -104,6 +98,6 @@ Virginia Tech is a public land-grant university, committed to teaching and learn
 - <b>We affirm</b> the right of each person to express thoughts and opinions freely. We encourage open expression within a climate of civility, sensitivity, and mutual respect.
 - <b>We affirm</b> the value of human diversity because it enriches our lives and the University. We acknowledge and respect our differences while affirming our common humanity.
 - <b>We reject</b> all forms of prejudice and discrimination, including those based on age, color, disability, gender, gender identity, gender expression, national origin, political affiliation, race, religion, sexual orientation, and veteran status. We take individual and collective responsibility for helping to eliminate bias and discrimination and for increasing our own understanding of these issues through education, training, and interaction with others.
-- <b>We pledge</b> our collective commitment to these principles in the spirit of the Virginia Tech motto of Ut Prosim (<i>That I May Serve</i>).
+- <b>We pledge</b> our collective commitment to these principles in the spirit of  the Virginia Tech motto of <i>Ut Prosim</i> (That I May Serve).
 
 ***
