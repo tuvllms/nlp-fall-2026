@@ -54,9 +54,15 @@ For group presentations, work must be completed solely by members of the group. 
 
 ### Academic accommodations
 
-Virginia Tech welcomes students with disabilities into the University's educational programs. The University promotes efforts to provide equal access and a culture of inclusion without altering the essential elements of coursework. If you anticipate or experience academic barriers that may be due to disability, including but not limited to, chronic medical conditions, Deaf or hard of hearing, learning disability, mental health, or vision impairment, please contact the Services for Students with Disabilities (SSD) (540-231-3788, <a href="mailto:ssd@vt.edu" target="_blank">ssd@vt.edu</a>, or visit <a href="https://ssd.vt.edu/">www.ssd.vt.edu</a>). If you have an SSD accommodation letter, please meet with us privately during office hours as early in the semester as possible to discuss implementing your accommodations. You must give us reasonable notice to implement your accommodations, which is generally 5 business days and 10 business days for final exams or project presentations.
+Virginia Tech is committed to creating an inclusive learning environment where all students have equitable access to educational opportunities. If you anticipate or experience barriers in this course due to a disability—including, but not limited to, chronic health conditions, mental health conditions, learning disabilities, mobility disabilities, sensory disabilities, ADHD, or other disabilities—I encourage you to connect with Services for Students with Disabilities (SSD).
 
-If there are aspects of this course that prevent you from learning or exclude you, please let us know as soon as possible. Together we will develop strategies to meet both your needs and the requirements of the course.
+SSD works collaboratively with students to determine reasonable accommodations that provide equal access while maintaining the essential learning outcomes and academic standards of the course.
+
+If you have not yet connected with SSD, you may contact their office at 540-231-3788, <a href="mailto:ssd@vt.edu" target="_blank">ssd@vt.edu</a>, or visit <a href="https://ssd.vt.edu/">www.ssd.vt.edu</a> for more information about the accommodation process.
+
+If you have received an SSD accommodation letter, please meet with me privately as early in the semester as possible so we can discuss how your accommodations will be implemented in this course. Accommodations are not retroactive, and reasonable advance notice is needed to coordinate them. In most cases, this means providing at least three (3) business days' notice for routine accommodations and ten (10) business days' notice for final exams.
+
+I value creating a classroom environment where all students can fully participate and succeed, and I welcome conversations about how to support your access to this course.
 
 ***
 
