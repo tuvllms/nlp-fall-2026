@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-Note: The schedule may adjust if we need more or less time on certain topics.
+Note: The schedule may be adjusted if we need more or less time for certain topics.
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
