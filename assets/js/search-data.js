@@ -37,14 +37,35 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/nlp-fall-2026/gradescope/";
           },
-        },{id: "nav-canvas",
-          title: "canvas",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/nlp-fall-2026/canvas/";
-          },
-        },{id: "nav-discord",
+        },{id: "dropdown-cs-5624-fall-2026",
+              title: "CS 5624 (Fall 2026)",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-cs-6804-spring-2026",
+              title: "CS 6804 (Spring 2026)",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-cs-4804-fall-2025",
+              title: "CS 4804 (Fall 2025)",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-cs-5624-spring-2025",
+              title: "CS 5624 (Spring 2025)",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "nav-discord",
           title: "discord",
           description: "",
           section: "Navigation",
