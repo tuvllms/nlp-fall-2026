@@ -37,29 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/nlp-fall-2026/gradescope/";
           },
-        },{id: "dropdown-cs-5624-fall-2026",
-              title: "CS 5624 (Fall 2026)",
+        },{id: "dropdown-cs-5624-in-person",
+              title: "CS 5624 (in person)",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-cs-6804-spring-2026",
-              title: "CS 6804 (Spring 2026)",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-cs-4804-fall-2025",
-              title: "CS 4804 (Fall 2025)",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-cs-5624-spring-2025",
-              title: "CS 5624 (Spring 2025)",
+            },{id: "dropdown-cs-5624-online",
+              title: "CS 5624 (online)",
               description: "",
               section: "Dropdown",
               handler: () => {
