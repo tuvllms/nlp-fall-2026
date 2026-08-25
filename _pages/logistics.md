@@ -76,11 +76,11 @@ The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in
 
 By the end of this course, students will be able to:
 
-- Explain core architectures and training paradigms for LLMs and generative AI, including Transformers, multimodal systems, agentic frameworks.
-- Analyze recent advances in LLM pretraining, post-training, evaluation, and efficient training and inference.
-- Evaluate large reasoning models, test-time scaling methods, and self-evolving agents that incorporate reasoning memory.
+- Explain foundational NLP concepts, key architectures underlying modern LLMs, including neural language models, Transformers, and multimodal and diffusion-based models, and the design and operation of LLM agents.
+- Analyze recent advances in LLM pretraining and post-training, efficient training and inference, reasoning and test-time scaling, interpretability, evaluation, security, and privacy.
+- Evaluate emerging approaches for AI agents and self-improving systems, including recursive self-improvement, harness evolution, continual learning, and automated scientific discovery.
 - Critically read and assess contemporary research papers, identifying assumptions, limitations, and open problems.
-- Formulate well-defined research questions in LLMs and generative AI, and propose principled solution approaches relevant to their own research domains.
+- Formulate well-defined research questions, and develop and evaluate principled solution approaches through implementation and experimentation.
 
 ***
 
