@@ -42,7 +42,7 @@ Each student is allowed *two* late days total across all homework submissions (n
 
 ### AI assistance policy
 
-AI assistance is permitted for completing assignments, including homework, quizzes, projects, but not for exams (if any). However, if you use AI tools like ChatGPT or Gemini, you must submit the prompts you used and describe how the AI contributed to your work. It is your responsibility to verify the AI-generated content for accuracy before submission.
+AI assistance is permitted for completing assignments, including quizzes, homework, and projects. However, if you use AI tools, you must submit the prompts you used and describe how the AI contributed to your work. It is your responsibility to verify the AI-generated content for accuracy before submission.
 
 ***
 
