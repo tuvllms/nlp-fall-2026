@@ -36,7 +36,7 @@ The tentative grading breakdown is as follows:
 
 ### Late policy
 
-Each student is allowed *two* late days total across all homework submissions. Once these three days are used, no additional late submissions will be accepted. If you encounter an unexpected health or personal emergency, please contact the instructors as soon as possible at <a href="mailto:cs6804instructors@gmail.com" target="_blank">cs4804instructors@gmail.com</a>, and provide valid documentation if needed. Late submissions due to job interviews, other coursework, or non-emergency situations will not be excused, and extensions will not be granted.
+Each student is allowed *two* late days total across all homework submissions (not per homework). Once these two days are used, no additional late submissions will be accepted. If you encounter an unexpected health or personal emergency, please contact the instructors as soon as possible at <a href="mailto:cs5624instructors@gmail.com" target="_blank">cs5624instructors@gmail.com</a>, and provide valid documentation if needed. Late submissions due to job interviews, other coursework, or non-emergency situations will not be excused, and extensions will not be granted.
 
 ***
 
