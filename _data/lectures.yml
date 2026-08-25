@@ -8,7 +8,15 @@
     - No associated readings
   logistics:
 
-- title: "Transformers & Neural Language Models"
+- title: "Transformer Architectures"
+
+- date: 8/27
+  lecturer:
+  title: <strong>Neural Language Models & Transformers</strong>
+  readings:
+    - Vaswani et al. (2017) <a href="https://arxiv.org/pdf/1706.03762" target="_blank">Attention Is All You Need</a>
+    - Jay Alammar's blog <a href="https://jalammar.github.io/illustrated-gpt2/" target="_blank">The Illustrated GPT-2 (Visualizing Transformer Language Models)</a>
+  logistics:
 
 - title: "LLM Pretraining and Post-training"
 
