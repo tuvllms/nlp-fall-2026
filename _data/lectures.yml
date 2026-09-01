@@ -12,8 +12,16 @@
 
 - date: 8/27
   lecturer:
-  title: <strong>Neural Language Models & Transformers</strong>
+  title: <strong>Neural Language Models</strong>
   slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_2.pdf"
+  readings:
+    - <a href="https://web.stanford.edu/~jurafsky/slp3/3.pdf" target="_blank">Jurafsky and Martin, Chapter 3.1-3.5</a>
+  logistics:
+
+- date: 9/1
+  lecturer:
+  title: <strong>Transformers</strong>
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_3.pdf"
   readings:
     - Vaswani et al. (2017) <a href="https://arxiv.org/pdf/1706.03762" target="_blank">Attention Is All You Need</a>
     - Jay Alammar's blog <a href="https://jalammar.github.io/illustrated-gpt2/" target="_blank">The Illustrated GPT-2 (Visualizing Transformer Language Models)</a>
