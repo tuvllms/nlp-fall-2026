@@ -32,6 +32,15 @@
   title: <strong>Transformers (cont'd)</strong>
   slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_4.pdf"
   readings:
+    - Vaswani et al. (2017) <a href="https://arxiv.org/pdf/1706.03762" target="_blank">Attention Is All You Need</a>
+    - Jay Alammar's blog <a href="https://jalammar.github.io/illustrated-gpt2/" target="_blank">The Illustrated GPT-2 (Visualizing Transformer Language Models)</a>
+  logistics:
+
+- date: 9/8
+  lecturer:
+  title: <strong>Different Transformer Architectures</strong>
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_5.pdf"
+  readings:
     - "Devlin et al. (2018) <a href='https://arxiv.org/pdf/1810.04805' target='_blank'>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a>"
     - Raffel et al. (2019) <a href="https://arxiv.org/pdf/1910.10683" target="_blank">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a>
     - Radford et al. (2019) <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">Language Models are Unsupervised Multitask Learners</a>
