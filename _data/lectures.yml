@@ -48,10 +48,21 @@
 
 - date: 9/10
   lecturer:
-  title: <strong>Language model pretraining</strong>
+  title: <strong>Language model training</strong>
   slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_6.pdf"
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf" target="_blank">Jurafsky and Martin, Chapter 6.6</a>
+  logistics:
+
+- date: 9/15
+  lecturer:
+  title: <strong>Decoding and inference</strong>
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_7.pdf"
+  readings:
+    - Holtzman et al. (2019) <a href="https://arxiv.org/pdf/1904.09751" target="_blank">The Curious Case of Neural Text Degeneration</a>
+    - Brown et al. (2020) <a href="https://arxiv.org/pdf/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
+    - Wei et al. (2022) <a href="https://arxiv.org/pdf/2201.11903" target="_blank">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
+    - Anthropic blog <a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents" target="_blank">Effective context engineering for AI agents</a>
   logistics:
 
 - title: "LLM Pretraining and Post-training"
