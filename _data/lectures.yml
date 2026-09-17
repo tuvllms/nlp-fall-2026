@@ -65,7 +65,16 @@
     - Anthropic blog <a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents" target="_blank">Effective context engineering for AI agents</a>
   logistics:
 
-- title: "LLM Pretraining and Post-training"
+- date: 9/17
+  lecturer: 
+  title: <strong>Pretraining scaling laws</strong>
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_8.pdf"
+  readings:
+    - Hoffmann et al. (2022) <a href="https://arxiv.org/pdf/2203.15556" target="_blank">Training Compute-Optimal Large Language Models</a>
+    - "[optional] Li et al. (2025) <a href='https://arxiv.org/pdf/2502.18969' target='_blank'>(Mis)Fitting: A Survey of Scaling Laws</a>"
+  logistics:
+
+- title: "LLM Post-training"
 
 - title: "Efficient Training and Inference"
 
