@@ -74,6 +74,15 @@
     - "[optional] Li et al. (2025) <a href='https://arxiv.org/pdf/2502.18969' target='_blank'>(Mis)Fitting: A Survey of Scaling Laws</a>"
   logistics:
 
+- date: 9/22
+  lecturer: 
+  title: <strong>Prompt Optimization & Mixture of Experts</strong>
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_9.pdf"
+  readings:
+    - "Agrawal et al. (2025) <a href='https://arxiv.org/pdf/2507.19457' target='_blank'>GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning</a>"
+    - "Fedus et al. (2021) <a href='https://arxiv.org/pdf/2101.03961' target='_blank'>Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity</a>"
+  logistics:
+
 - title: "LLM Post-training"
 
 - title: "Efficient Training and Inference"
