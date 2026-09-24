@@ -83,6 +83,15 @@
     - "Fedus et al. (2021) <a href='https://arxiv.org/pdf/2101.03961' target='_blank'>Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity</a>"
   logistics:
 
+- date: 9/24
+  lecturer: 
+  title: <strong>Multimodal models</strong>
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_10.pdf"
+  readings:
+    - "Dosovitskiy et al. (2020) <a href='https://arxiv.org/pdf/2010.11929' target='_blank'>An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</a>"
+    - "Bai et al. (2025) <a href='https://arxiv.org/pdf/2511.21631' target='_blank'>Qwen3-VL Technical Report</a>"
+  logistics:
+
 - title: "LLM Post-training"
 
 - title: "Efficient Training and Inference"
