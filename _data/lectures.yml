@@ -92,8 +92,6 @@
     - "Bai et al. (2025) <a href='https://arxiv.org/pdf/2511.21631' target='_blank'>Qwen3-VL Technical Report</a>"
   logistics:
 
-- title: "LLM Post-training"
-
 - date: 9/29
   lecturer: 
   title: <strong>Post-training</strong>
