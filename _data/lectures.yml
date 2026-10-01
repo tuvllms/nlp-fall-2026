@@ -103,6 +103,15 @@
     - Bai et al. (2022) <a href="https://arxiv.org/pdf/2204.05862" target="_blank">Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback</a>
   logistics:
 
+- date: 10/1
+  lecturer: 
+  title: <strong>Policy gradient algorithms</strong>
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_12.pdf"
+  readings:
+    - "<a href='https://rlhfbook.com/book.pdf' target='_blank'>Lambert (2026) (Chapter 6)</a>"
+    - "Shao et al. (2024) <a href='https://arxiv.org/pdf/2402.03300' target='_blank'>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</a>"
+  logistics:
+
 - title: "Efficient Training and Inference"
 
 - title: "Reasoning and Test-time Scaling"
