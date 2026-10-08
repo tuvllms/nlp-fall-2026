@@ -117,8 +117,6 @@
   title: <strong>Policy gradient algorithms (cont'd)</strong>
   slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_13.pdf"
   readings:
-    - "<a href='https://rlhfbook.com/book.pdf' target='_blank'>Lambert (2026) (Chapter 6)</a>"
-    - "Shao et al. (2024) <a href='https://arxiv.org/pdf/2402.03300' target='_blank'>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</a>"
   logistics:
 
 - title: "Efficient Training and Inference"
