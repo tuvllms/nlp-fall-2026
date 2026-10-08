@@ -119,6 +119,13 @@
   readings:
   logistics:
 
+- date: 10/8
+  lecturer: 
+  title: <strong>Proximal Policy Optimization (PPO)</strong>
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_14.pdf"
+  readings:
+  logistics:
+
 - title: "Efficient Training and Inference"
 
 - title: "Reasoning and Test-time Scaling"
