@@ -127,6 +127,15 @@
     - "<a href='https://rlhfbook.com/book.pdf' target='_blank'>Lambert (2026) (Chapter 6)</a>"
   logistics:
 
+- date: 10/13
+  lecturer: 
+  title: <strong>Direct Preference Optimization (DPO)</strong>
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_15.pdf"
+  readings:
+    - "Rafailov et al. (2023) <a href='https://arxiv.org/pdf/2305.18290' target='_blank'>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>"
+    - "<a href='https://rlhfbook.com/book.pdf' target='_blank'>Lambert (2026) (Chapter 6)</a>"
+  logistics:
+
 - title: "Efficient Training and Inference"
 
 - title: "Reasoning and Test-time Scaling"
