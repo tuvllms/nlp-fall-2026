@@ -139,7 +139,7 @@
 - date: 10/15
   lecturer: 
   title: <strong>Group Relative Policy Optimization (GRPO) & Test-time scaling</strong>
-  slides: ""
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_16.pdf"
   readings:
     - "Shao et al. (2024) <a href='https://arxiv.org/pdf/2402.03300' target='_blank'>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</a>"
     - "DeepSeek-AI (2025) <a href='https://arxiv.org/pdf/2501.19393' target='_blank'>DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>"
