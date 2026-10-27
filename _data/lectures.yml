@@ -156,7 +156,7 @@
 
 - date: 10/22
   lecturer: 
-  title: <strong>Test-time scaling (cont'd)</strong>
+  title: <strong>Reasoning language models & Test-time scaling</strong>
   slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_17.pdf"
   readings:
     - "Muennighoff et al. (2025) <a href='https://arxiv.org/pdf/2501.19393' target='_blank'>s1: Simple test-time scaling</a>"
