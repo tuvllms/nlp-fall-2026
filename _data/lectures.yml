@@ -163,7 +163,6 @@
     - "Brown et al. (2024) <a href='https://arxiv.org/pdf/2407.21787' target='_blank'>Large language monkeys: Scaling inference compute with repeated sampling</a>"
   logistics:
 
-
 - date: 11/3
   lecturer: 
   title: <strong>Efficient training and inference (cont'd)</strong>
