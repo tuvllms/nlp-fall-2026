@@ -169,6 +169,13 @@
   slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_21.pdf"
   readings:
   logistics: 
+
+- date: 11/5
+  lecturer: 
+  title: <strong>LLM-as-a-Judge & LLM-as-a-Verifier</strong>
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_22.pdf"
+  readings:
+  logistics: 
   
 - title: "Interpretability and Evaluation"
 
