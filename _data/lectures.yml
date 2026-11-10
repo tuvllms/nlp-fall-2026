@@ -177,11 +177,19 @@
   readings:
   logistics: 
   
-- title: "Interpretability and Evaluation"
+- date: 11/10
+  lecturer: 
+  title: <strong>Compound AI systems & Agents</strong>
+  slides: "https://tuvllms.github.io/nlp-fall-2026/assets/pdf/lecture_23.pdf"
+  readings:
+  logistics: 
 
-- title: "AI Agents"
-
-- title: "Recursive Self-improvement"
+- date: 11/12
+  lecturer: 
+  title: <strong>Recursive Self-improvement</strong>
+  slides: 
+  readings:
+  logistics: 
 
 - title: "AI Security and Privacy"
 
