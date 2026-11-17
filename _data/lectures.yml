@@ -192,8 +192,8 @@
   logistics: 
 
 - date: 11/17
-  lecturer: <a href='https://mrdrozdov.github.io/' target='_blank'>Andrew Drozdov</a>"
-  title: <strong>Search Agents (Guest Lecture)</strong>
+  lecturer: 
+  title: <strong>Search Agents (Guest Lecture by <a href='https://mrdrozdov.github.io/' target='_blank'>Andrew Drozdov</a>, Senior Research Scientist @ Databricks)</strong>
   slides: ""
   readings:
   logistics: 
