@@ -191,6 +191,13 @@
   readings:
   logistics: 
 
+- date: 11/17
+  lecturer: <a href='https://mrdrozdov.github.io/' target='_blank'>Andrew Drozdov</a>"
+  title: <strong>Search Agents (Guest Lecture)</strong>
+  slides: ""
+  readings:
+  logistics: 
+
 - title: "AI Security and Privacy"
 
 - title: "Diffusion LLMs"
