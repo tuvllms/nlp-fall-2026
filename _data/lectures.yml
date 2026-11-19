@@ -198,7 +198,24 @@
   readings:
   logistics: 
 
-- title: "AI Security and Privacy"
+- date: 11/19
+  lecturer: 
+  title: "AI Safety and Security"
+  slides: ""
+  readings:
+  logistics: 
 
-- title: "Diffusion LLMs"
+- date: 11/24
+  title: No classes (Thanksgiving break)
 
+- date: 11/26
+  title: No classes (Thanksgiving break)
+
+- date: 12/1
+  title: Student presentations
+
+- date: 12/3
+  title: Student presentations
+
+- date: 12/8
+  title: Student presentations
